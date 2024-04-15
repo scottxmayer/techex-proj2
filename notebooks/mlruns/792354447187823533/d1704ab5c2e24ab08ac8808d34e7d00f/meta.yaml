@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/792354447187823533/d1704ab5c2e24ab08ac8808d34e7d00f/artifacts
+end_time: 1713191295612
+entry_point_name: ''
+experiment_id: '792354447187823533'
+lifecycle_stage: active
+run_id: d1704ab5c2e24ab08ac8808d34e7d00f
+run_name: capable-carp-735
+run_uuid: d1704ab5c2e24ab08ac8808d34e7d00f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191089221
+status: 3
+tags: []
+user_id: scott

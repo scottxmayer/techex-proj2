@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/245034534496131525/b49ae4c00e444f4cba065c7244c96b8d/artifacts
+end_time: 1713191089024
+entry_point_name: ''
+experiment_id: '245034534496131525'
+lifecycle_stage: active
+run_id: b49ae4c00e444f4cba065c7244c96b8d
+run_name: crawling-fish-15
+run_uuid: b49ae4c00e444f4cba065c7244c96b8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713190882536
+status: 3
+tags: []
+user_id: scott

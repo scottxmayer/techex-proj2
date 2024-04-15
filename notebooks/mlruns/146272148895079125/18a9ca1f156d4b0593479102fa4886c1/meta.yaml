@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/146272148895079125/18a9ca1f156d4b0593479102fa4886c1/artifacts
+end_time: 1713192716928
+entry_point_name: ''
+experiment_id: '146272148895079125'
+lifecycle_stage: active
+run_id: 18a9ca1f156d4b0593479102fa4886c1
+run_name: luminous-kit-183
+run_uuid: 18a9ca1f156d4b0593479102fa4886c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713192511882
+status: 3
+tags: []
+user_id: scott

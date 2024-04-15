@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/602442549831883134/b2478b45875c4afea4004ae2e719d7fe/artifacts
+end_time: 1712948102421
+entry_point_name: ''
+experiment_id: '602442549831883134'
+lifecycle_stage: active
+run_id: b2478b45875c4afea4004ae2e719d7fe
+run_name: colorful-gull-632
+run_uuid: b2478b45875c4afea4004ae2e719d7fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948090958
+status: 3
+tags: []
+user_id: scott

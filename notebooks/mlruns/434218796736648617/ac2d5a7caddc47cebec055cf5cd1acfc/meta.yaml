@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/434218796736648617/ac2d5a7caddc47cebec055cf5cd1acfc/artifacts
+end_time: 1712951525379
+entry_point_name: ''
+experiment_id: '434218796736648617'
+lifecycle_stage: active
+run_id: ac2d5a7caddc47cebec055cf5cd1acfc
+run_name: whimsical-donkey-494
+run_uuid: ac2d5a7caddc47cebec055cf5cd1acfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712951482560
+status: 4
+tags: []
+user_id: scott

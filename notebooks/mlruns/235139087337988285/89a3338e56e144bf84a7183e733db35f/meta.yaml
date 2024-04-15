@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/235139087337988285/89a3338e56e144bf84a7183e733db35f/artifacts
+end_time: 1712950631576
+entry_point_name: ''
+experiment_id: '235139087337988285'
+lifecycle_stage: active
+run_id: 89a3338e56e144bf84a7183e733db35f
+run_name: calm-wren-171
+run_uuid: 89a3338e56e144bf84a7183e733db35f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712950622223
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/237575900571791722/8f210611efc74ca293abb0055b813181/artifacts
+end_time: 1712955418682
+entry_point_name: ''
+experiment_id: '237575900571791722'
+lifecycle_stage: active
+run_id: 8f210611efc74ca293abb0055b813181
+run_name: bustling-pug-136
+run_uuid: 8f210611efc74ca293abb0055b813181
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712955353001
+status: 3
+tags: []
+user_id: scott

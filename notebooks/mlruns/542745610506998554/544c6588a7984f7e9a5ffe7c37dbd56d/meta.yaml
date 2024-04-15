@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/542745610506998554/544c6588a7984f7e9a5ffe7c37dbd56d/artifacts
+end_time: 1712948720192
+entry_point_name: ''
+experiment_id: '542745610506998554'
+lifecycle_stage: active
+run_id: 544c6588a7984f7e9a5ffe7c37dbd56d
+run_name: zealous-mink-238
+run_uuid: 544c6588a7984f7e9a5ffe7c37dbd56d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948671861
+status: 3
+tags: []
+user_id: scott

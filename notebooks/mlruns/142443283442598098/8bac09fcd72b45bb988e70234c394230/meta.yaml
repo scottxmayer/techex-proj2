@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/142443283442598098/8bac09fcd72b45bb988e70234c394230/artifacts
+end_time: 1712947373387
+entry_point_name: ''
+experiment_id: '142443283442598098'
+lifecycle_stage: active
+run_id: 8bac09fcd72b45bb988e70234c394230
+run_name: gaudy-shrimp-997
+run_uuid: 8bac09fcd72b45bb988e70234c394230
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947329990
+status: 3
+tags: []
+user_id: scott

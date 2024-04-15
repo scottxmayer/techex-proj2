@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/505626452331174077/79af894416154bb18c07d335de731d78/artifacts
+end_time: 1712948182229
+entry_point_name: ''
+experiment_id: '505626452331174077'
+lifecycle_stage: active
+run_id: 79af894416154bb18c07d335de731d78
+run_name: nosy-carp-542
+run_uuid: 79af894416154bb18c07d335de731d78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948151722
+status: 3
+tags: []
+user_id: scott

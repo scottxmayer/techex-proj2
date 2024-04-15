@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/112412056510716187/de74b697ff2b4809b3f519562000e882/artifacts
+end_time: 1712947326805
+entry_point_name: ''
+experiment_id: '112412056510716187'
+lifecycle_stage: active
+run_id: de74b697ff2b4809b3f519562000e882
+run_name: gifted-grub-303
+run_uuid: de74b697ff2b4809b3f519562000e882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947275560
+status: 4
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/978566978763630288/2fc0a8ec062c45a5b8f70817556657c7/artifacts
+end_time: 1712948604087
+entry_point_name: ''
+experiment_id: '978566978763630288'
+lifecycle_stage: active
+run_id: 2fc0a8ec062c45a5b8f70817556657c7
+run_name: sassy-elk-657
+run_uuid: 2fc0a8ec062c45a5b8f70817556657c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948520721
+status: 3
+tags: []
+user_id: scott

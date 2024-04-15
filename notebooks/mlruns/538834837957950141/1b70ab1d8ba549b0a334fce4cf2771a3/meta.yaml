@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/538834837957950141/1b70ab1d8ba549b0a334fce4cf2771a3/artifacts
+end_time: 1712951870414
+entry_point_name: ''
+experiment_id: '538834837957950141'
+lifecycle_stage: active
+run_id: 1b70ab1d8ba549b0a334fce4cf2771a3
+run_name: smiling-robin-10
+run_uuid: 1b70ab1d8ba549b0a334fce4cf2771a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712951782828
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/965604674815216726/7c815a3fdd204f9caf7e403e84ff9f7a/artifacts
+end_time: 1712947426028
+entry_point_name: ''
+experiment_id: '965604674815216726'
+lifecycle_stage: active
+run_id: 7c815a3fdd204f9caf7e403e84ff9f7a
+run_name: fun-kite-106
+run_uuid: 7c815a3fdd204f9caf7e403e84ff9f7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947373614
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/801559093229145266/f41d242f95124ae6a242b7ebd046916e/artifacts
+end_time: 1712948802665
+entry_point_name: ''
+experiment_id: '801559093229145266'
+lifecycle_stage: active
+run_id: f41d242f95124ae6a242b7ebd046916e
+run_name: bedecked-wolf-971
+run_uuid: f41d242f95124ae6a242b7ebd046916e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948720448
+status: 3
+tags: []
+user_id: scott

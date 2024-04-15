@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/532778702080220347/f5d7ac9fe56a4edb91d71b07bc3c03fe/artifacts
+end_time: 1712947666801
+entry_point_name: ''
+experiment_id: '532778702080220347'
+lifecycle_stage: active
+run_id: f5d7ac9fe56a4edb91d71b07bc3c03fe
+run_name: sneaky-flea-662
+run_uuid: f5d7ac9fe56a4edb91d71b07bc3c03fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947592101
+status: 3
+tags: []
+user_id: scott

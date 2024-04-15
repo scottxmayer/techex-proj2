@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/869378971493978847/5d0f462bbd9b4815b61fa687ceb5cb0b/artifacts
+end_time: 1712948196453
+entry_point_name: ''
+experiment_id: '869378971493978847'
+lifecycle_stage: active
+run_id: 5d0f462bbd9b4815b61fa687ceb5cb0b
+run_name: capable-shrew-845
+run_uuid: 5d0f462bbd9b4815b61fa687ceb5cb0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948182486
+status: 3
+tags: []
+user_id: scott

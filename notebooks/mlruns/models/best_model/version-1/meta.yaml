@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1713193398151
+current_stage: None
+description: ''
+last_updated_timestamp: 1713193398151
+name: best_model
+run_id: 18a9ca1f156d4b0593479102fa4886c1
+run_link: ''
+source: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/146272148895079125/18a9ca1f156d4b0593479102fa4886c1/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/146272148895079125/18a9ca1f156d4b0593479102fa4886c1/artifacts/model
+user_id: null
+version: 1

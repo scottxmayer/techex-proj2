@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/718139385825381427/619077ad7d404de28f7a5a15e7d77bdc/artifacts
+end_time: 1712950762061
+entry_point_name: ''
+experiment_id: '718139385825381427'
+lifecycle_stage: active
+run_id: 619077ad7d404de28f7a5a15e7d77bdc
+run_name: adorable-pug-878
+run_uuid: 619077ad7d404de28f7a5a15e7d77bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712950657315
+status: 4
+tags: []
+user_id: scott

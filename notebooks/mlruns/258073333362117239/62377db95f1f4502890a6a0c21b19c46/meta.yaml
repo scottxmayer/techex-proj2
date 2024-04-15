@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/258073333362117239/62377db95f1f4502890a6a0c21b19c46/artifacts
+end_time: 1712949532783
+entry_point_name: ''
+experiment_id: '258073333362117239'
+lifecycle_stage: active
+run_id: 62377db95f1f4502890a6a0c21b19c46
+run_name: peaceful-chimp-143
+run_uuid: 62377db95f1f4502890a6a0c21b19c46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712949385149
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/896948850512966089/a77f281d24624ede8d7d485f769de504/artifacts
+end_time: 1712955783201
+entry_point_name: ''
+experiment_id: '896948850512966089'
+lifecycle_stage: active
+run_id: a77f281d24624ede8d7d485f769de504
+run_name: dazzling-ray-412
+run_uuid: a77f281d24624ede8d7d485f769de504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712955720241
+status: 3
+tags: []
+user_id: scott

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/518223221818144061/cf80b48d761a4281a38b0972c08297c8/artifacts
+end_time: 1712948671593
+entry_point_name: ''
+experiment_id: '518223221818144061'
+lifecycle_stage: active
+run_id: cf80b48d761a4281a38b0972c08297c8
+run_name: glamorous-sheep-642
+run_uuid: cf80b48d761a4281a38b0972c08297c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948604347
+status: 3
+tags: []
+user_id: scott

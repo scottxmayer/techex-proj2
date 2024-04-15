@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/372068850036527626/0c0c53c67d314835a0895512040f3b72/artifacts
+end_time: 1712949720270
+entry_point_name: ''
+experiment_id: '372068850036527626'
+lifecycle_stage: active
+run_id: 0c0c53c67d314835a0895512040f3b72
+run_name: ambitious-robin-741
+run_uuid: 0c0c53c67d314835a0895512040f3b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712949690097
+status: 3
+tags: []
+user_id: scott

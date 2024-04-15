@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/800219641864137863/4681ae1bbc43459ea49788ace0a0ef83/artifacts
+end_time: 1712947488648
+entry_point_name: ''
+experiment_id: '800219641864137863'
+lifecycle_stage: active
+run_id: 4681ae1bbc43459ea49788ace0a0ef83
+run_name: overjoyed-boar-757
+run_uuid: 4681ae1bbc43459ea49788ace0a0ef83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712947426254
+status: 3
+tags: []
+user_id: scott

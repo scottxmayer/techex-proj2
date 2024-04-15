@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/137616509328490329/9c419fd39a81475a9bda6830754fba24/artifacts
+end_time: 1712948151447
+entry_point_name: ''
+experiment_id: '137616509328490329'
+lifecycle_stage: active
+run_id: 9c419fd39a81475a9bda6830754fba24
+run_name: tasteful-lamb-705
+run_uuid: 9c419fd39a81475a9bda6830754fba24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948115446
+status: 3
+tags: []
+user_id: scott

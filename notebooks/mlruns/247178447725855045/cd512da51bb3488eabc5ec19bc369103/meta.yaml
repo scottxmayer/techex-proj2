@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/247178447725855045/cd512da51bb3488eabc5ec19bc369103/artifacts
+end_time: 1712951290277
+entry_point_name: ''
+experiment_id: '247178447725855045'
+lifecycle_stage: active
+run_id: cd512da51bb3488eabc5ec19bc369103
+run_name: polite-mink-895
+run_uuid: cd512da51bb3488eabc5ec19bc369103
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712951104707
+status: 4
+tags: []
+user_id: scott

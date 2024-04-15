@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/400160929424280357/dd6b5ee4c75e468893881026da1c54c6/artifacts
+end_time: 1712949689949
+entry_point_name: ''
+experiment_id: '400160929424280357'
+lifecycle_stage: active
+run_id: dd6b5ee4c75e468893881026da1c54c6
+run_name: hilarious-yak-288
+run_uuid: dd6b5ee4c75e468893881026da1c54c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712949649692
+status: 3
+tags: []
+user_id: scott

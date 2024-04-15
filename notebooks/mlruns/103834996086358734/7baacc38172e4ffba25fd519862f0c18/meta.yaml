@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/103834996086358734/7baacc38172e4ffba25fd519862f0c18/artifacts
+end_time: 1712948115172
+entry_point_name: ''
+experiment_id: '103834996086358734'
+lifecycle_stage: active
+run_id: 7baacc38172e4ffba25fd519862f0c18
+run_name: aged-koi-494
+run_uuid: 7baacc38172e4ffba25fd519862f0c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712948102672
+status: 3
+tags: []
+user_id: scott

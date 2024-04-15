@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/343058678276129448/854c0c1c7637476e9ae2ea088d2df8f3/artifacts
+end_time: 1712955036352
+entry_point_name: ''
+experiment_id: '343058678276129448'
+lifecycle_stage: active
+run_id: 854c0c1c7637476e9ae2ea088d2df8f3
+run_name: gentle-mare-890
+run_uuid: 854c0c1c7637476e9ae2ea088d2df8f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1712954952881
+status: 3
+tags: []
+user_id: scott

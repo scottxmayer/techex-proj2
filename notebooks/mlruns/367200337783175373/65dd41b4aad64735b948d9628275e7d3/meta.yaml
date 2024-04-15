@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/scott/Documents/techex/8-phase_2_project/notebooks/mlruns/367200337783175373/65dd41b4aad64735b948d9628275e7d3/artifacts
+end_time: 1713191450358
+entry_point_name: ''
+experiment_id: '367200337783175373'
+lifecycle_stage: active
+run_id: 65dd41b4aad64735b948d9628275e7d3
+run_name: orderly-calf-486
+run_uuid: 65dd41b4aad64735b948d9628275e7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713191397028
+status: 3
+tags: []
+user_id: scott
